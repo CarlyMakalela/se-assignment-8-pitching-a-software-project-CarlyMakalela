@@ -228,35 +228,14 @@ Examples of effective calls to action that can be used to close your pitch:
 
 ### References
 
-1.Plpacademy Powerlearn project,Software Engineering(Project Management) https://plpacademy.powerlearnproject.org/course-module/632858949cdd7da593924927/week/6540f279658f5331fcfa6573/lesson
+1.Plpacademy Powerlearn project,Software Engineering (Project amnagement)
+ https://plpacademy.powerlearnproject.org/course-module/632858949cdd7da593924927/week/6540f279658f5331fcfa6573/lesson
 
-Understanding the Audience:
+2. Problem statement
+https://blog.teamairship.com/build-a-better-problem-statement
 
-2.Forbes: https://www.forbes.com/sites /forbestechcouncil/2018/04/17/five-keys -to-effectively-pitching-your-software-project/?sh=5c944f5d7f6c
+3. Financial projection
+https://fastercapital.com/topics/how-can-financial-projections-be-included-in-an-investor-pitch-deck.html
 
-3.Entrepreneur: https://www.entrepreneur .com/article/324989
-
-Problem Statement:
-
-4.Medium: https://medium.com/swlh/how -to-write-a-problem-statement-for-your-software-project-44bbd4e2f982
-
-5.HubSpot: https://blog.hubspot.com /customers/problem-statement
-Unique Selling Proposition (USP):
-
-Technical Feasibility:
-
-6.TechCrunch: https://techcrunch.com /2019/06/17/assessing-technical-feasibility-in-software-projects/
-
-7.IEEE: https://ieeexplore.ieee.org
-
-
-
-
-
- Submission Guidelines:
-- Your answers should be well-structured, concise, and to the point.
-- Provide real-world examples or case studies wherever possible.
-- Cite any references or sources you use in your answers.
-- Submit your completed assignment by 28th June 2024.
-
-
+4 Call to action
+https://www.semrush.com/blog/what-is-a-call-to-action/?kw=&cmp=ROW_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=683809892566&kwid=dsa-2263819779759&cmpid=18352133756&agpid=165018205868&BU=Core&extid=105115186963&adpos=&gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1ZwENbyRoHMCv3K1Voolwi9zgBh5UnoHyXkReHDIf15lwhv3k2dC4aAqjWEALw_wcB
